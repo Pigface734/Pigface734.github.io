@@ -1,9 +1,10 @@
 
  
 function setup() {
-  createCanvas(500, 500)
+  var cnv = createCanvas(500, 500)
   textAlign(CENTER);
   background(255);
+ cnv.position(50, 100);
 }
  
 function draw() {
