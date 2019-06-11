@@ -64,7 +64,7 @@ function draw() {
     }
     
     if(falltime < 500){
-     image(warn,rocx,rocy,80,80) 
+     image(warn,rocx,rocy,600-falltime,600-falltime) 
     }
     
     if(falltime >= 500){
