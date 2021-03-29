@@ -9,7 +9,7 @@ var rounds = 10
 var rocx = 100
 var rocy = 100
 var m = 0
-var highscore = 302
+var highscore = 0
 var scrbeet = false
 var run = false
 
